@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <p align="left">I'm a Full Stack web developer with front-end orientation who likes to work in a team and learn new things that make me improve as a person and as a programmer graduated from Bootcamp soyHenry 🟡 I'm a very curious person, proactive, and always willing to teach and learn from others, </p>
 <p align="left">I'd love to be part of an incredible team and grow in this incredible tech world.🌎 </p>
-<p>How to reach me: <a href="sebastianam127@gmail.com">📧sebastianam127@gmail.com</a></p> 
+<p>How to reach me: <a href="samd.development@gmail.com">📧samd.development@gmail.com</a></p> 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
